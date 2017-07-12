@@ -21,6 +21,7 @@ Lib
 ```
 $ sudo apt update
 $ sudo apt install gdb python-pip
+$ sudo apt-get install lib32z1
 
 // peda
 $ git clone https://github.com/longld/peda.git ~/peda
