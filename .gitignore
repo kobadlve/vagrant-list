@@ -1,2 +1,4 @@
 *.box
 .vagrant
+*.log
+.gdb_history
